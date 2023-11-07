@@ -1,7 +1,7 @@
 const Typeeffect = () => {
     return (
          
-         <h2>Typeeffect</h2>
+         <h3>Typeeffect</h3>
         
       )
     }

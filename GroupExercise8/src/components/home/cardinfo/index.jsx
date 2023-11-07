@@ -1,7 +1,7 @@
 const Cardinfo = () => {
     return (
                  
-         <h1>Cardinfo</h1>
+         <h2>Cardinfo</h2>
   
       )
     }
