@@ -1,6 +1,4 @@
 import Footer from "./components/footer"
-import Header from "./components/header"
-import Logo from "./components/header/logo"
 import Home from "./components/home"
 import Cardinfo from "./components/home/cardinfo"
 import Evolution from "./components/home/cardinfo/evolution"
@@ -13,8 +11,6 @@ const App = () => {
   return (
         <>
        
-       <Logo/>
-       <Header/>
        <Footer/>
        <Home/>
        <Search/>
